@@ -1,6 +1,6 @@
 Infinite South Park - inspired from Andrej Karpathy's 'Infinite Shakespeare'
 
-Trained on scripts from every South Park episode  
+Trained on transcripts from every South Park episode  
 
 <br>
 <br>
